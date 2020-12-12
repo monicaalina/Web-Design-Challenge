@@ -1,0 +1,115 @@
+body {
+    font-size: 18px;
+    background-color:rgb(202, 220, 226);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    min-height:100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+  
+  h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34, 194, 186);
+  }
+  
+  h1{
+    font-size: 24px;
+    font-weight: bold;
+    text-align:left;
+  }
+  
+  h2{
+    font-size: 22px;
+    font-weight: bold;
+    text-align:left;
+  }
+  
+  h3{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  p{
+    text-align: left;
+    padding:10px;
+    color: #6d6b6b;
+    margin:20px auto;
+  }
+  
+  .navbar{
+    position: absolute;
+    right: 30px;
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .navbar a{
+    background-color:white;
+  }
+
+  .navbar-light{
+    color: beige;
+  }
+
+  .navbar-collapse {
+    right: 10%;
+    font-size: 13px;
+    position: absolute;
+    padding:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    font-weight: bold;
+  }
+  
+  .col {
+    width: 100%;
+  } 
+  
+  .homebtn{
+    background-color: white;
+    z-index:2;
+    padding:10px;
+    margin: auto;
+  }
+  
+  .homebtn a{
+    width: 110px;
+    background: lightseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    display: block;
+    padding: 10px;
+    margin: 10px 10px 10px 40px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .divtop{
+    background-color: white;
+  }
+  
+  .divbdy{
+    background-color: white;
+  }
+  
+  .divtable{
+    text-align:center;
+    background-color: white;
+  }
+  
+  .divbtm {
+    width:100%;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+    bottom:0;
+    background-color: gray;
+    font-size: 12px;
+  }

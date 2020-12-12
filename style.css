@@ -1,0 +1,118 @@
+body {
+    font-size: 18px;
+    background-color:rgb(202, 220, 226);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .navbar {
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .navbar-light .navbar-brand {
+    color: beige;
+  }
+    
+  .navbar-brand {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin-left: 7%;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(20, 130, 130);
+  }
+  
+  .navbar-collapse {
+    right: 7%;
+    font-size: 13px;
+    position: absolute;
+    padding:10px;
+  }
+  
+  .nav-item {
+    font-weight: bold;
+    padding:10px;
+  }
+  
+  .content {
+    width:85%;
+    margin: 20px auto;
+    margin-bottom: 10px auto;
+    padding:20px;
+  }
+    
+  .button {
+    margin-bottom: 10px;
+  }
+  
+  .text-left {
+    text-align: center;
+    color: rgb(20, 130, 130);
+    font-size:25px;
+    margin:20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+  p{
+    text-align: left;
+    padding:10px;
+    color: #6d6b6b;
+    margin:20px auto;
+  }
+  
+  .thumbnail {
+    width:150px;
+    margin:20px auto;
+  }
+  
+  .main-image {      
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+      float: left;
+  }
+  
+  .col-md-8 {
+    background-color: white;
+  }
+  
+  .col-sm-12,.col-md-4 {
+    background-color: white;
+  }
+  
+  div.col-sm-12.col-md-12 div.col-lg-6.col-sm-12 img {
+    width: 100%;
+  }
+  
+  .img {
+    max-width:100%;
+  }
+  
+  div.col-sm-12.col-md-12 p {
+    color: black;
+    font-size: medium;
+  }
+  
+  .panel-body:hover {
+    border-color: blueviolet;
+    border-radius: 3px;
+  }
+
+  .divbdy{
+    background-color: white;
+    z-index:1;
+    padding: 10px;
+  }
+
+  div.col-12 col-md-6 img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    float: left;
+  }
+
+  .col{
+    width: 100%;
+  }
